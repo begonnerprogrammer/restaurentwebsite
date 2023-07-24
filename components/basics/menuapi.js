@@ -1,0 +1,43 @@
+const Menu=[{
+    id:1,
+    image:"images/wp1854629.png",
+    name:"maggi",
+    category:"breakfast",
+    price:25,
+    description:"lasopdaspoasfaffasfaasf\';aksf[paskjf[paskjf[paskdf"
+},
+{
+    id:2,
+    image:"images/wp2468427.jpg",
+    name:"biryani",
+    category:"dinner",
+    price:25,
+    description:"lasopdaspasfasfafafasasdaskdfp;asjf[asjf[asjkf[a"
+},
+{
+    id:3,
+    image:"images/wp2665277.jpg",
+    name:"hallem",
+    category:"evening",
+    price:25,
+    description:"lasopdasporasfasfasfafafasoihaoshdfoasihfoashfaof"
+},
+{
+    id:4,
+    image:"images/wp2665277.jpg",
+    name:"nanpaye",
+    category:"lunch",
+    price:25,
+    description:"lasopdassfpoasfafafafasasdaslk[opdkas[pdkas[pkdas[kdas[pdk"
+},
+{
+    id:5,
+    image:"images/wp2665277.jpg",
+    name:"nanpaye",
+    category:"thapa",
+    price:25,
+    description:"lasopdassfpoasfafafafasasdaslk[opdkas[pdkas[pkdas[kdas[pdk"
+}
+];
+
+export default Menu;
